@@ -1,4 +1,4 @@
-package org.torch.conversions.org.torch.conversions
+package org.torch.conversions
 
 
 import com.google.gson.GsonBuilder

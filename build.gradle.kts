@@ -46,7 +46,7 @@ dependencies {
 }
 
 application {
-    mainClass = "org.example.AppKt"
+    mainClass = "org.torch.conversions.MainKt"
 }
 
 tasks.test {
