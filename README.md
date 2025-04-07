@@ -3,8 +3,13 @@
 * Generate project structure - Kotlin, Gradle, Git
 * Gradle
   * add `poi` dependencies
-* 
-
+  * add execute task for `gradle run`
+* POI
+  * experiment with extracting json
+  * use poi documentation - [xml slideshow](https://poi.apache.org/apidocs/dev/org/apache/poi/xslf/usermodel/XMLSlideShow.html)
+  * use Gson lib to extract Json from List of Map
+ 
+ 
 ### Build and Run
 
 * run `gradle build`
